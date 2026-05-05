@@ -1,0 +1,17 @@
+{
+    "keys": [
+        {
+            "p": "9o2BSsqNXSJohKMkrKuPdKAvXR1BvXeLVGosRjFLhlPEwJHCjPagZqTfeBJOGITZdfEGiZ9P0p2WsWI1MSU6b_1n6n7KnkysMyL8oBQWr8lwrgLw70SQkRA_0YW2LLr1qKcYurN4YjrWb8Qj2sZIa5tbfDp_GIEAUIlwXAeqjUE",
+            "kty": "RSA",
+            "q": "yT_NOZHTpUzAN-mVlT16t1Zkb-z3oU0543onTzsc_evnnTKI9tBvgb8NxPMl2CPjayCbDAKhErpA2iZy5WOZt2AHST-pEUXJA_9RjyLfIVTqgJ5yq3qNA4WpXL3Ip67NTmi7suyWis2m6asQnnzQpDLu-K5HThi7rGrnAAbE0DE",
+            "d": "AdVoGA1eQdXATBMMUqBS1OjTJW-3Dff_gF85Apv-buRPRYl12eOawHr6_u77CnvzdP-vyc9-doE0qNHcszCIMbtkgjxLkCnQK39oL5296J5BhX0KxvGQ84kzcMYcL9fwjYP93R4r-OEl2Gjjqf3PsNHHmPk-gaAwBzB716B6Ahs7HlvTiscz9tF7BwQ7Z3nDXR7wMNguMLCiDZitUclJb3KL5SYLhR2aqGZgPJaRHA_ke1mvqrK23duqvKT_MVdS9TuOAhElZP_FIQbMw7EjvbMW0wcbZqMVXVU-miTPYWptxukRyxNRNhDFB1IkE3uywDDD1Pleg84hpVJW8VNQAQ",
+            "e": "AQAB",
+            "kid": "kapture-epic-integration",
+            "qi": "UCVs12xQEwCsEHq7z2MsVSg4OQ7KNoqbwXz7p9YYE1jHayebUi2ghPFg_AEV7iPlc-2i-BDRE61E1GiYB536jZrC4u5F4JkhYiMCbtTNPuuCrQMTDJm7rBhUP8ED9eEgpxW8xkm0C7Xl6sDaNoX_1saHipZTX3TCwjiw81lDXuY",
+            "dp": "F7J0GdcsDSaQeycfEEWRDTmUM9PrDKXfy2ZFCR4Vzzxf7c5Ur63IrvTr0aOYw_yI1jArW7DnQCwLXtM8n5OfcUIe6cfz-5ENAAE93LjxkUXAQclglO63Imo4aA_8-YGiuOoOk2tKh85169ojRBTIwyb0fRU2QAmuGQ-MsBvAhcE",
+            "alg": "RS384",
+            "dq": "sP_UV9XR94hRZtuiG-g-jhEFtQsNoGhziYZeHGk5Tnq08qUHoUwhRlPqoFXZ6wdldUrwEtgdIoN9lmBKnUXEZGuo_NtorzBZY5KjAOkCpiYxOX4iDH90lqxwEIk6eYBcQaILs4oxvVKygsFZlIriVggV9dISFLXcGgDLulI5t4E",
+            "n": "wdKM_UztgNRJbLxypxRr3Syd1j1P-QCbZ4ZZ8YzRS3SBlplY6yFMAl3s-I7aniN8Q1zQuK8vEgfptrf033n3Bm-VUULOpBP0-t7WTmv8BQXWmqiS_NaqkjsJEs7ZKv6DFAtOFXxSMFv2u8Lrt_AtrgbHVJRuMQJVoGr0fACs1ZOY0dNuUEyru7rXLkek4upP1n7fHjJdefY_azwDcnB0CSmeDcRbytRbLdmujgrwF89FgS83pjo2gi2ssdZEF-gYuvZSJICtJ5V5hwZAwntdBsAlmEbg1ZzBWeDlVxJz4xOPkC3n54lDfOuiJIobym_eNiR6lQnn6UdSnMy7ti3ZcQ"
+        }
+    ]
+}
